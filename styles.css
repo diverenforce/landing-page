@@ -42,3 +42,9 @@ a {
     border:#8de794 2px solid;
     border-radius: 20px;
 }
+
+.hero-main {
+    font:48px;
+    font-weight: bolder;
+    color:#F9FAF8;
+}
