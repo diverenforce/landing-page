@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.first {
+    display: flex;
+    flex-direction: column;
+    padding: 0 350px 350px 350px;
+    background-color:#1F2937;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
