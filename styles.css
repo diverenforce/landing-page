@@ -35,3 +35,10 @@ a {
 .first-body {
     display: flex;
 }
+
+.atscene {
+    width: 300px;
+    height: auto;
+    border:#8de794 2px solid;
+    border-radius: 20px;
+}
