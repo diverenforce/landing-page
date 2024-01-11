@@ -6,3 +6,4 @@ In this project I will display and demonstrate the newly acquired knowledge and 
 
 Currently I do not have any ideas for the pictures, themes and general picture of the website's personality so it will look pretty boring. I may or may not come back to it in the future after I have finished it to edit it, add pictures, themes and fun stuff. But once I do I will add sources of pictures and resources here.
 
+For now the first image in the first section is from a scene from Adventure time season 3 episode 16. 
