@@ -31,3 +31,7 @@ a {
 .logo {
     color:#F9FAF8;
 }
+
+.first-body {
+    display: flex;
+}
