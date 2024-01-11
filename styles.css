@@ -5,10 +5,14 @@
     display: flex;
     flex-direction: column;
     padding: 0 350px 350px 350px;
-    background-color:#1F2937;
+    background-color:#1F2937;   
 }
 
 .header {
     display: flex;
     justify-content: space-between;
+}
+
+ul {
+    list-style-type:none;
 }
