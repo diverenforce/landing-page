@@ -61,4 +61,11 @@ a {
     font-size:16px;
     border-radius: 10px;
     padding: 10px 30px;
+    width: 130px;
+}
+
+.first-left {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
