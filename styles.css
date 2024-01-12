@@ -63,14 +63,24 @@ a {
     font-size: 18px;
 }
 
-.buton {
-    background-color:#cad560;
-    color:#172434;
+.buton,
+.sign-buton {
     font-weight: 900;
     font-size:16px;
     border-radius: 10px;
     padding: 10px 30px;
     width: 130px;
+}
+
+.buton {
+    background-color:#cad560;
+    color:#172434;
+}
+
+.sign-buton {
+    border:#f7f7f7 3px solid;
+    background-color:#3882F6;
+    color:#f7f7f7;
 }
 
 .first-left {
@@ -141,6 +151,7 @@ a {
 .sign-box {
     display: flex;
     background-color:#3882F6;
+    gap: 80px;
 }
 
 .sign-call {
@@ -153,3 +164,4 @@ a {
     font-size: 18px;
     color:#E5E7EB;
 }
+
