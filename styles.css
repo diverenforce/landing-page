@@ -88,8 +88,27 @@ a {
 
 
 .wb {
-    width: 100px;
+    width: 150px;
     height: auto;
     border: 5px solid #3882F6;
     border-radius: 10px;
+}
+
+.founds {
+    margin: 35px;
+    font-size: 36px;
+    font-weight: 900;
+    color:#481f2d;
+}
+
+.info {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+.content p {
+    font-size: 18px;
+    width: 160px;
+    color: #2e3749;
 }
