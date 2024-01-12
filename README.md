@@ -9,3 +9,5 @@ Currently I do not have any ideas for the pictures, themes and general picture o
 For now the first image in the first section is from a scene from Adventure time season 3 episode 16. 
 
 Logo picture is wild berry princess from at, taken from fandom.
+
+third picture aka hollow knight- art by syanart. I got it from displate
