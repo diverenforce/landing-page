@@ -6,7 +6,7 @@
     display: flex;
     flex-direction: column;
     padding: 0 330px 130px 330px;
-    background-color:#1F2937;   
+    background-color:#481f2d;   
     gap: 130px;
 }
 
@@ -15,8 +15,8 @@
     justify-content: space-between;
     padding: 15px;
     align-items: center;
-    background-color: #d93f72;
-    border:10px solid #cad560;
+    background-color: #481f2d;
+    border:3px solid #cad560;
     border-radius: 30px;;
 }
 
@@ -29,7 +29,7 @@ ul {
 
 a {
     text-decoration: none;
-    color:#094205;
+    color:#a1df9c;
     font-weight:900;
 }
 
@@ -55,11 +55,11 @@ a {
 .hero-main {
     font-size:48px;
     font-weight: bolder;
-    color:#F9FAF8;
+    color:#8de794;
 }
 
 .secondary {
-    color:#E5E7EB;
+    color:#a1df9c;
     font-size: 18px;
 }
 
