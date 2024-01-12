@@ -152,6 +152,9 @@ a {
     display: flex;
     background-color:#3882F6;
     gap: 80px;
+    padding: 50px;
+    justify-content: centers;
+    border-radius: 20px;
 }
 
 .sign-call {
