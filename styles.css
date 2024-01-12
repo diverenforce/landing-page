@@ -20,6 +20,18 @@
     border-radius: 30px;;
 }
 
+.left-hunk {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.totle {
+    font-weight: 900;
+    font-size: 27px;
+    color:#cad560;
+}
+
 ul {
     display: flex;
     gap: 15px;
@@ -30,7 +42,7 @@ ul {
 a {
     text-decoration: none;
     color:#a1df9c;
-    font-weight:900;
+    font-weight:700;
 }
 
 .logo {
@@ -54,7 +66,7 @@ a {
 
 .hero-main {
     font-size:48px;
-    font-weight: bolder;
+    font-weight: 900;
     color:#f7f7f7;
 }
 
