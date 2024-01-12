@@ -78,3 +78,18 @@ a {
     flex-direction: column;
     gap: 15px;
 }
+
+.second {
+    padding: 0 330px 130px 330px; 
+    gap: 130px;
+    text-align:center;
+    text-align: center;
+}
+
+
+.wb {
+    width: 100px;
+    height: auto;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
