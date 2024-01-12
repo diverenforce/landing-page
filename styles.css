@@ -113,3 +113,23 @@ a {
     color: #2e3749;
     margin: 9px;
 }
+
+.quote-box {
+    background-color:#E5E7EB;
+    padding: 150px 350px 150px 350px; 
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-size:36px;
+    font-style: italic;
+    color:#1F2937;
+}
+
+.quoter {
+    font-size: 24px;
+    font-weight:800;
+    color:#2e3749;
+    margin-left: auto;
+}
