@@ -5,7 +5,7 @@
 .first {
     display: flex;
     flex-direction: column;
-    padding: 0 350px 350px 350px;
+    padding: 0 330px 130px 330px;
     background-color:#1F2937;   
     gap: 130px;
 }
@@ -34,6 +34,7 @@ a {
 
 .first-body {
     display: flex;
+    gap: 20px;
 }
 
 .atscene {
