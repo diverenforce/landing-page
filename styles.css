@@ -29,7 +29,10 @@ a {
 }
 
 .logo {
-    color:#F9FAF8;
+    width: 50px;
+    height:auto;
+    border: 2px green solid;
+    border-radius: 20px;;
 }
 
 .first-body {
