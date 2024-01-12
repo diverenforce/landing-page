@@ -15,6 +15,9 @@
     justify-content: space-between;
     padding: 15px;
     align-items: center;
+    background-color: #d93f72;
+    border:10px solid #cad560;
+    border-radius: 30px;;
 }
 
 ul {
