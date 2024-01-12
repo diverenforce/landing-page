@@ -6,7 +6,7 @@
     display: flex;
     flex-direction: column;
     padding: 0 330px 130px 330px;
-    background-color:#481f2d;   
+    background-color:#30151e;   
     gap: 130px;
 }
 
@@ -73,13 +73,13 @@ a {
 }
 
 .buton {
-    background-color:#cad560;
-    color:#172434;
+    background-color:#4e522a;
+    color:#dadde1;
 }
 
 .sign-buton {
     border:#f7f7f7 3px solid;
-    background-color:#3882F6;
+    background-color:#244883;
     color:#f7f7f7;
 }
 
@@ -90,25 +90,26 @@ a {
 }
 
 .second {
-    padding: 0 330px 130px 330px; 
+    padding: 30px 330px 130px 330px; 
     gap: 130px;
     text-align:center;
     text-align: center;
+    background-color:#1e1c1c;
 }
 
 
 .wb {
     width: 150px;
     height: auto;
-    border: 5px solid #3882F6;
+    border: 5px solid #0f2e60;
     border-radius: 10px;
 }
 
 .founds {
-    margin: 35px;
+    margin-bottom: 35px;
     font-size: 36px;
     font-weight: 900;
-    color:#481f2d;
+    color:#f2a4f0;
 }
 
 .info {
@@ -120,12 +121,12 @@ a {
 .content p {
     font-size: 18px;
     width: 160px;
-    color: #2e3749;
+    color:#babeb3;
     margin: 9px;
 }
 
 .quote-box {
-    background-color:#E5E7EB;
+    background-color:#282a2e;
     padding: 150px 350px 150px 350px; 
     display: flex;
     flex-direction: column;
@@ -134,23 +135,24 @@ a {
 .quote {
     font-size:36px;
     font-style: italic;
-    color:#1F2937;
+    color:#cac2c8;
 }
 
 .quoter {
     font-size: 24px;
     font-weight:800;
-    color:#2e3749;
+    color:#cac2c8;
     margin-left: auto;
 }
 
 .sign-up {
     padding: 150px 200px;
+    background-color: #1e1c1c;
 }
 
 .sign-box {
     display: flex;
-    background-color:#3882F6;
+    background-color:#244883;
     gap: 80px;
     padding: 50px;
     justify-content: center;
