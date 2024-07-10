@@ -11,3 +11,6 @@ For now the first image in the first section is from a scene from Adventure time
 Logo picture is wild berry princess from at, taken from fandom.
 
 third picture aka hollow knight- art by syanart. I got it from displate
+
+
+note: I would like to apologize for I have not used best practices in terms of committing aka using atomic commits and frequently commiting
